@@ -1,0 +1,11 @@
+branch-defaults:
+  master:
+    environment: null
+    group_suffix: null
+global:
+  application_name: eb-docker-php
+  default_ec2_keyname: trellis-ansible
+  default_platform: Docker 1.7.1
+  default_region: eu-west-1
+  profile: null
+  sc: git
